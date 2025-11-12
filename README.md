@@ -3,6 +3,8 @@ Author: Ashwathy Nair
 Supervisor: Dr. Radhakrishnan T
 Program: M.Sc. Data Analytics and Geoinformatics, Digital University Kerala
 
+
+
 ## Overview
 This project explores heat stress in cattle caused by rising Temperature–Humidity Index (THI) levels across Kerala. With geospatial data and deep learning models, the study predicts spatio-temporal variations in THI to support data-driven mitigation strategies for the dairy sector.
 
